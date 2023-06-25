@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,400;1,700;1,900&display=swap');
+
+
+
+.top-position {
+    display: flex;
+    justify-content: center;
+    background-color: #303548;
+    color: white;
+    border-radius: 50% 20% / 10% 40%;
+    margin: auto;
+    width: 30%;
+    padding: 20px;
+    margin-top: 30px;
+    font-family: 'Lato', sans-serif;
+    font-size: x-large;
+}
+
+@media screen and (max-width: 768px) {
+    .top-position {
+        display: flex;
+        justify-content: center;
+        font-size: large;
+        width: 60%;
+        margin-top: 40px;
+    }
+    }
