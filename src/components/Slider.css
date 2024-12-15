@@ -6,6 +6,20 @@
     overflow: hidden;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
   }
+
+  .container-slider:hover {
+    filter: grayscale(5%) brightness(90%); /* Change image color */
+  }
+
+  .slide-title {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #606371;
+  }
+
+
   @media screen and (max-width: 700px){
     .container-slider {
       margin: 40px auto;

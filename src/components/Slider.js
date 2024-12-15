@@ -37,11 +37,11 @@ function Slider() {
             className={slideIndex === index + 1 ? "slide active-anim" : "slide"}
             key={obj.id}
           >
+            <h3 className="slide-title">{obj.title}</h3>
             <img
               src={process.env.PUBLIC_URL + `/imgs/img${index + 1}.png`}
-              alt=""
+              alt={obj.title}
             />
-            
           </div>
           
           
