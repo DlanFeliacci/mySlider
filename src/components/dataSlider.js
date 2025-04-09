@@ -18,17 +18,22 @@ const dataSlider = [
     },
     {
       id: uuidv4(),
-      title: "Logo for a game",
+      title: "Logo for an educational plateform issenlearn.com",
       subTitle: "Lorem"
     },
     {
       id: uuidv4(),
-      title: "Logo design for a website",
+      title: "Logo design for a game",
       subTitle: "Lorem"
     },
     {
       id: uuidv4(),
-      title: "Logo design for a website",
+      title: "Logo design for https://orka.files.aimtech.dz/",
+      subTitle: "Lorem"
+    },
+    {
+      id: uuidv4(),
+      title: "Logo design for https://orka.files.aimtech.dz/",
       subTitle: "Lorem"
     },
     {
@@ -44,11 +49,6 @@ const dataSlider = [
     {
       id: uuidv4(),
       title: "Photo editing with photoshop",
-      subTitle: "Lorem"
-    },
-    {
-      id: uuidv4(),
-      title: "designed for advertisement",
       subTitle: "Lorem"
     },
 
