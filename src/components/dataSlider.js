@@ -18,7 +18,7 @@ const dataSlider = [
     },
     {
       id: uuidv4(),
-      title: "Logo for an educational plateform issenlearn.com",
+      title: "Logo for e-Learning plateform issenlearn.com",
       subTitle: "Lorem"
     },
     {
@@ -28,7 +28,7 @@ const dataSlider = [
     },
     {
       id: uuidv4(),
-      title: "Logo design for https://orka.files.aimtech.dz/",
+      title: "Infenix design for social media",
       subTitle: "Lorem"
     },
     {
@@ -43,12 +43,22 @@ const dataSlider = [
     },
     {
       id: uuidv4(),
-      title: "Youtube thumbnail for myself",
+      title: "Youtube thumbnail",
+      subTitle: "Lorem"
+    },
+    {
+      id: uuidv4(),
+      title: "Youtube thumbnail",
       subTitle: "Lorem"
     },
     {
       id: uuidv4(),
       title: "Photo editing with photoshop",
+      subTitle: "Lorem"
+    },
+    {
+      id: uuidv4(),
+      title: "Mascot logo design",
       subTitle: "Lorem"
     },
 
