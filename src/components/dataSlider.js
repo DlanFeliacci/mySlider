@@ -3,62 +3,62 @@ import { v4 as uuidv4 } from 'uuid';
 const dataSlider = [
     {
       id: uuidv4(),
-      title: "Flyer 1",
+      title: "logo for a company",
       subTitle: "Lorem"
     },
     {
       id: uuidv4(),
-      title: "Flyer 2",
+      title: "visit card for pixelio",
       subTitle: "Lorem"
     },
     {
       id: uuidv4(),
-      title: "Flyer 3",
+      title: "flyer for aimtech.",
       subTitle: "Lorem"
     },
     {
       id: uuidv4(),
-      title: "Logo for e-Learning plateform issenlearn.com",
+      title: "logo for e-Learning plateform issenlearn.com",
       subTitle: "Lorem"
     },
     {
       id: uuidv4(),
-      title: "Logo design for a game",
+      title: "logo design for a game",
       subTitle: "Lorem"
     },
     {
       id: uuidv4(),
-      title: "Infenix design for social media",
+      title: "infinix design for social media",
       subTitle: "Lorem"
     },
     {
       id: uuidv4(),
-      title: "Logo design for https://orka.files.aimtech.dz/",
+      title: "logo design for https://orka.files.aimtech.dz/",
       subTitle: "Lorem"
     },
     {
       id: uuidv4(),
-      title: "Built with Illustrator",
+      title: "built with Illustrator",
       subTitle: "Lorem"
     },
     {
       id: uuidv4(),
-      title: "Youtube thumbnail",
+      title: "youtube thumbnail",
       subTitle: "Lorem"
     },
     {
       id: uuidv4(),
-      title: "Youtube thumbnail",
+      title: "youtube thumbnail",
       subTitle: "Lorem"
     },
     {
       id: uuidv4(),
-      title: "Photo editing with photoshop",
+      title: "logo design for lafourminet",
       subTitle: "Lorem"
     },
     {
       id: uuidv4(),
-      title: "Mascot logo design",
+      title: "mascot logo design",
       subTitle: "Lorem"
     },
 
